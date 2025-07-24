@@ -33,7 +33,7 @@
 
 ---
 
-## 📽️ Watch Video on LinkedIn
+## 🎥 Watch the Demo on LinkedIn
 
 **▶️ Watch on LinkedIn:** [coming soon]()
 
