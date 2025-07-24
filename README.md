@@ -42,7 +42,7 @@
 ## 👀 Website Preview
 
 <a href="https://ahmed-maher77.github.io/Clockify-UI___Neumorphic-clock-app/" title="demo">
-  <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
+  <img src="https://github.com/user-attachments/assets/ab32b457-5055-469f-8244-882f2d8d5d2f" alt="UI Mockup" width="400">
 </a>
 
 ---
